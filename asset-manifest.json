@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc9e7e0a.css",
-    "main.js": "/static/js/main.6e8e83c2.js",
-    "index.html": "/index.html",
-    "static/media/icon-check.svg": "/static/media/icon-check.c0e2bb9365c6d9e8bbe4.svg",
-    "main.bc9e7e0a.css.map": "/static/css/main.bc9e7e0a.css.map",
-    "main.6e8e83c2.js.map": "/static/js/main.6e8e83c2.js.map"
+    "main.css": "/password-generator/static/css/main.e76a05ed.css",
+    "main.js": "/password-generator/static/js/main.6e8e83c2.js",
+    "index.html": "/password-generator/index.html",
+    "static/media/icon-check.svg": "/password-generator/static/media/icon-check.c0e2bb9365c6d9e8bbe4.svg",
+    "main.e76a05ed.css.map": "/password-generator/static/css/main.e76a05ed.css.map",
+    "main.6e8e83c2.js.map": "/password-generator/static/js/main.6e8e83c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc9e7e0a.css",
+    "static/css/main.e76a05ed.css",
     "static/js/main.6e8e83c2.js"
   ]
 }
